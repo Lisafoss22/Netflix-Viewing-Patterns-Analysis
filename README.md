@@ -1,6 +1,6 @@
 https://onlineconvertfree.com/convert/ipynb/
 
-**Title**: netflix-viewing-patterns-analysis
+**Title**: netflix-viewing-patterns-analysis.
 
 **Summary**:
 This document is a comprehensive analysis of Netflix viewing patterns, focusing on the dataset of TV shows and movies available on the platform. The analysis includes importing the dataset, exploring its structure, identifying duplicates, and performing various queries to extract insights. Key findings include the most prolific directors, the distribution of content by country, the highest-rated content, and the most common genres. The document also demonstrates data cleaning and manipulation techniques using Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn.
